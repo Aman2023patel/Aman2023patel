@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Aman Patel, a passionate software developer an
 - 👯 I’m looking to collaborate on **open-source projects in Full Stack development and analytics**.
 - 🤔 I’m looking for help with **advanced Spring Boot microservices**.
 - 💬 Ask me about **Angular, Next.js, React.js, SpringBoot, and SQL**.
-- 📫 How to reach me: [aman2023patel@gmail.com](mailto:aman2023patel@gmail.com)
+- 📫 How to reach me: [aman2023patel@gmail.com](mailto:patelaman9542@gmail.com)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I have a knack for optimizing logistics and route planning—perfect for delivery simulations!
 
