@@ -29,6 +29,6 @@ Welcome to my GitHub profile! I'm Aman Patel, a passionate software developer an
 - Enhance my knowledge of machine learning for predictive analytics.
 
 ### 🧩 Let's Connect!
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or [Twitter](https://twitter.com/your-profile).
+Feel free to explore my repositories and connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/proaman/)).
 
 Thanks for stopping by! 😊
